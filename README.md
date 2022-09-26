@@ -5,6 +5,5 @@
 <br />
 <br />
 
-<a href="https://visitorbadge.io/status?path=denis-avakov">
-  <img src="https://api.visitorbadge.io/api/visitors?path=denis-avakov&labelColor=%23697689&countColor=%23d9e3f0&style=flat" />
-</a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=denis-avakov&labelColor=%23697689&countColor=%23d9e3f0&style=flat)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
