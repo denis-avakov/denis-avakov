@@ -3,9 +3,6 @@
 </a>
 
 <br />
-<br />
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=denis-avakov&labelColor=%23697689&countColor=%23d9e3f0&style=flat)](https://www.visitorbadge.io/status?path=denis-avakov)
 
 <div align="left">
   <img src="https://github.com/denis-avakov/denis-avakov/raw/main/assets/web-badges/dhtmlshockcom.gif" alt="">
@@ -14,3 +11,9 @@
   <img src="https://github.com/denis-avakov/denis-avakov/raw/main/assets/web-badges/enhanced_html.gif" alt="">
   <img src="https://github.com/denis-avakov/denis-avakov/raw/main/assets/web-badges/best_viewed_with_eyes.gif" alt="">
 <div>
+
+<br />
+
+<a href="https://www.visitorbadge.io/status?path=denis-avakov">
+  <img src="https://api.visitorbadge.io/api/visitors?path=denis-avakov&labelColor=%23697689&countColor=%23d9e3f0&style=flat" alt="A visitor count badge">
+</a>
