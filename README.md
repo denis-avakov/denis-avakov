@@ -10,6 +10,10 @@
   <img src="https://github.com/denis-avakov/denis-avakov/raw/main/assets/web-badges/internet_privacy.gif" alt="">
   <img src="https://github.com/denis-avakov/denis-avakov/raw/main/assets/web-badges/enhanced_html.gif" alt="">
   <img src="https://github.com/denis-avakov/denis-avakov/raw/main/assets/web-badges/best_viewed_with_eyes.gif" alt="">
+  <!-- credits -->
+  <!-- https://cyber.dabamos.de/88x31/ -->
+  <!-- https://news.ycombinator.com/item?id=37529711 -->
+  <!-- https://github.com/mbledkowski/antipixel-archive -->
 <div>
 
 <br />
